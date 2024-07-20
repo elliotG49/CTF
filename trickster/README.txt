@@ -1,3 +1,5 @@
+Difficulty: Medium
+
 AUTHOR: JUNIAS BONOU
 
 Description
